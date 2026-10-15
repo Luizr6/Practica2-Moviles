@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Practica2</string>
+
+    <!-- Login -->
+    <string name="logo_news">Logo NEWS</string>
+    <string name="login_correo">Correo</string>
+    <string name="login_contrasena">Contraseña</string>
+    <string name="login_hint_correo">name@example.com</string>
+    <string name="login_hint_contrasena">••••••••••••</string>
+    <string name="btn_ingresar">INGRESAR</string>
+    <string name="btn_registrar">REGISTRAR</string>
+    <string name="login_campos_vacios">Por favor complete todos los campos</string>
+    <string name="login_registro_proximamente">Función de registro próximamente</string>
+
+    <!-- Noticias -->
+    <string name="titulo_noticias">Noticias</string>
+    <string name="desc_perfil">Perfil</string>
+    <string name="desc_compartir">Compartir</string>
+    <string name="desc_imagen_noticia">Imagen de la noticia</string>
+    <string name="noticia1_titulo">Apple Vision Pro</string>
+    <string name="noticia1_texto">This 80-foot-tall waterfall on the coast of Big Sur in central California that flows yearround from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.</string>
+    <string name="noticia2_titulo">Meta Glasses</string>
+    <string name="noticia2_texto">This 80-foot-tall waterfall on the coast of Big Sur in central California that flows yearround from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.</string>
+    <string name="share_texto">https://developer.android.com/training/sharing/</string>
+    <string name="share_chooser">Compartir</string>
+    <string name="error_sin_app">No hay una aplicación disponible para esta acción</string>
+
+    <!-- Perfil -->
+    <string name="titulo_perfil">Perfil</string>
+    <string name="desc_avatar">Foto de perfil</string>
+    <string name="perfil_nombre">Kristin Hennessy</string>
+    <string name="perfil_ubicacion">San Francisco</string>
+    <string name="perfil_informacion">Información</string>
+    <string name="perfil_notificaciones">Notificaciones</string>
+    <string name="perfil_favoritos">Favoritos</string>
+    <string name="btn_cerrar_sesion">CERRAR SESION</string>
+    <string name="menu_privacidad">Privacidad</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_central">Central</string>
+    <string name="toast_central">Central de noticias: opción informativa</string>
+
+    <!-- Privacidad -->
+    <string name="titulo_privacidad">Privacidad</string>
+    <string name="privacidad_titulo">Reglas de Privacidad</string>
+    <string name="privacidad_parrafo1">La Política se aplica a todos los datos personales que los usuarios proporcionen de manera directa o a través de una tercera persona (encargado) cuando éste actúe según las instrucciones del usuario.</string>
+    <string name="privacidad_parrafo2">Los datos personales de los usuarios que emplean nuestros canales web son almacenados en sus correspondientes bancos de datos, los cuales se encuentran registrados ante la Autoridad Nacional de Protección de Datos Personales.</string>
+
+    <!-- Contactos -->
+    <string name="titulo_contactos">Contactos</string>
+    <string name="contactos_listado">Listado de Contactos</string>
+    <string name="ctx_titulo">Opciones de contacto</string>
+    <string name="ctx_llamar">Llamar</string>
+    <string name="ctx_enviar_mensaje">Enviar mensaje</string>
+    <string name="sms_cuerpo">Hola, me comunico desde la app NEWS.</string>
+
+    <string-array name="contactos">
+        <item>Prensa Editorial: +51 1 987987987</item>
+        <item>Prensa Editorial: +51 1 987987987</item>
+        <item>Prensa Editorial: +51 1 987987987</item>
+        <item>Prensa Editorial: +51 1 987987987</item>
+        <item>Prensa Editorial: +51 1 987987987</item>
+        <item>Prensa Editorial: +51 1 987987987</item>
+    </string-array>
+</resources>
